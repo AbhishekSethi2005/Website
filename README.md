@@ -1,3 +1,3 @@
 # Website
-This is my first repository
-This is my First Commit
+This is my first repository.
+This is my First Commit.
