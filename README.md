@@ -33,4 +33,8 @@ To view the website locally, just click on the image below:
 
 [![View Website](https://github.com/AbhishekSethi2005/Website/assets/143688066/ea5ee5c9-e5e3-4330-a3e8-56afe5d87062)](https://abhisheksethi2005.github.io/Website/)
 
+## ⚠️ Disclaimer
+
+The website is currently under construction. The home page and the planets pages and subpages are completely finished, but the remaining sections are still in progress. Stay tuned for updates as we continue to expand the content!
+
 
